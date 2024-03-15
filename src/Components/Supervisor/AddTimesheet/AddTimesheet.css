@@ -1,0 +1,29 @@
+/* AddTimesheet.css */
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.label-input-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.button-container-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table {
+  margin-top: 1.5rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+/* Add any additional styles as needed */

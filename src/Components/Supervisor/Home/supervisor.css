@@ -1,0 +1,69 @@
+
+/* bg color */
+
+
+/* align the container center */
+.ti-home-container{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+/* notification */
+.ti-home-notification .col{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+/* content title */
+.ti-home-content .col .title{
+    background-color: #A5D28D;
+    border-radius: 10px;
+    margin: 0;
+}
+
+/* content body */
+.ti-home-content .col .body {
+    background-color: #fff;
+    margin: 0;
+    border-radius: 10px;
+   
+}
+
+/* btn for select */
+.ti-home-content .select-btn{
+    width: 100%;
+    max-width: 200px;
+    background-color: #1C2FBA;
+    color:#fff;
+    border: none;
+    border-radius: 5px ;
+    box-shadow: 0 5px 3px gray;
+}
+
+/* timesheet status */
+.ti-home-ti-status{
+    background-color: #C6CAED;
+    border-radius: 5px;
+}
+
+/* btn for status */
+.ti-home-ti-status .view-btn,.status-btn{
+    width: 100%;
+    max-width: 100px;
+    border: none;
+    
+}
+
+
+/* view btn */
+.ti-home-ti-status .view-btn{
+    background-color: #1C2FBA;
+    color: #fff;
+}
+
+/* status btn */
+.ti-home-ti-status .status-btn{
+    background-color: green;
+    color: #fff;
+}

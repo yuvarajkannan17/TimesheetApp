@@ -1,0 +1,36 @@
+/* search admin details */
+
+
+.no-focus-outline input:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.no-focus-outline input {
+    border-bottom: 1px solid black !important;
+    border-radius: 0 !important;
+}
+
+.sprAdmin-searchAdmin-table-header th {
+    background-color: #1C2FBA !important;
+    color: #fff !important;
+}
+
+.sprAdmin-admin-list :hover {
+    cursor: pointer;
+}
+
+/* view admin details */
+
+.sprAdmin-admin-details {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.1),
+        -5px -5px 0 rgba(0, 0, 0, 0.1),
+        5px -5px 0 rgba(0, 0, 0, 0.1),
+        -5px 5px 0 rgba(0, 0, 0, 0.1);
+
+}
